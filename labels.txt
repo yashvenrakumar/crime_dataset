@@ -1,0 +1,9 @@
+0 Violence
+1 Extortion
+2 Child Labour
+3 Protest
+4 Human Trafacking
+5 Acid Attack
+6 Mob Lynching
+7 Murder
+8 Rape
